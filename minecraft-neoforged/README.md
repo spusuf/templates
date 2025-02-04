@@ -1,5 +1,5 @@
 # Template for a Minecraft Server with [NeoForged](https://neoforged.net/) installed
-Template written by [Spusuf](https://github.com/spusuf
+Template written by [Spusuf](https://github.com/spusuf)
 Compatible with 1.20.2 to latest (1.21.0)
 Tested on Linux baremetal and using pufferpanel installed in docker, but nothing should prevent running on other platforms.
 Versions older than are available on the current archive (older than 1.20.2) are hosted in a seperate location and are not compatible unless you manually download and run the installer (not recommended), anything from 1.20.2 onwards works flawlessly with no inverention needed.
