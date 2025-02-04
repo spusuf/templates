@@ -385,8 +385,8 @@
     },
     "AutoSaveSpan": {
       "type": "integer",
-      "desc": "Multiplier that affects how quickly Pals work",
-      "display": "Work Speed Multiplier",
+      "desc": "AutoSave Interval in minutes",
+      "display": "AutoSave Interval",
       "required": true,
       "value": "30.000000"
     },
